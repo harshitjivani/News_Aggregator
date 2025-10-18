@@ -1,4 +1,4 @@
-# 🔵 NewsMelt - Advanced News Analysis & Data Visualization Platform
+# 🔵 NewsAggregator - Advanced News Analysis & Data Visualization Platform
 
 ![NewsMelt Landing](landing.png)
 
